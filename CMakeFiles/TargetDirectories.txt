@@ -1,0 +1,3 @@
+/home/rorserver/bin/0.37/source/server/CMakeFiles/rorserver.dir
+/home/rorserver/bin/0.37/dependencies/rudeconfig/CMakeFiles/rudeconfig.dir
+/home/rorserver/bin/0.37/dependencies/socketw/CMakeFiles/mysocketw.dir
